@@ -31,7 +31,8 @@ My Name is Shubham Mathur. I am an engineering student, currently studying at VI
 
 
  
- **Tools** 
+ **Tools**
+ 
 * Microsoft Visual Studio - Project Development in C++ also used COIN 3D, SOWIN Libraries; basic C#, .ASP development, GUI development using C++.
 * Eclipse - Image processing in java, Project Development, Socket Programming, GUI development using windows builder, Android app development.
 * Android Studio - Android app development.
@@ -56,4 +57,4 @@ manipulated image.
 
 ## Contact me
 
-[shubham.mathur@engineer.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[shubham.mathur@engineer.com](mailto:shubham.mathur@engineer.com)
