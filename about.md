@@ -48,7 +48,6 @@ My Name is Shubham Mathur. I am an engineering student, currently studying at VI
 [**International Conference on Computing, Communications and Informatics (ICACCI)**](http://icacci-conference.org/2016/)
 
 * [**An Efficient Spatial Domain based Image Watermarking using Shell Based Pixel Selection**](http://ieeexplore.ieee.org/document/7732468/) 
-
 Implemented a new algorithm in spatial domain with shell based pixel selection for watermark embedding and extraction. 
 The proposed method is evaluated with benchmark dataset and we obtained a favorable result in terms of PSNR
 and BER. We reported the results of various kinds of image manipulation to
