@@ -1,2 +1,2 @@
 Personal WebPage based upon Jekyll.
-www.googleknight.github.io
+https://googleknight.github.io/
