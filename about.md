@@ -8,7 +8,7 @@ My Name is Shubham Mathur. I am an engineering student, currently studying at VI
 
 ## Education
 
-* B.Tech. Information Technology from VIT University (current) CGPA 8.92
+* B.Tech. Information Technology from VIT University (current) CGPA 9
 * XII from Mayoor School, Ajmer  91.2%
 * X from Mayoor School, Ajmer  CGPA 9.6
 
