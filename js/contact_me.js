@@ -13,7 +13,7 @@ $(function() {
             var phone = $("input#phone").val();
             var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
-			var finalmessage = "Name: "+name+"\nEmail id: "+email_address+"\nPhone: "+phone+"\nMessage: "+message
+			var finalmessage = "Name: "+name+"\nEmail id: "+email+"\nPhone: "+phone+"\nMessage: "+message
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
@@ -22,8 +22,8 @@ $(function() {
 					url: "https://formspree.io/mathur1995@gmail.com", 
 					method: "POST",
 					data: {message: finalmessage},
-					dataType: "json"
-				},
+					dataType: "json",
+				
                 cache: false,
                 success: function() {
                     // Success message
