@@ -1,0 +1,22 @@
+url: http://googleknight.github.io
+baseurl: ""
+
+# Site settings
+title: Shubham Mathur
+email: shubham.mathur@engineer.com
+description: "I'm Shubham Mathur, a software engineering student. I am passionate about coding, reading, travelling."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: quora
+    url: https://www.quora.com/profile/Shubham-Mathur-21
+  - title: github
+    url: https://github.com/googleknight
+  - title: linkedin
+    url: https://www.linkedin.com/in/shubham-mathur-b60b4a124
+  - title: google-plus
+    url: https://plus.google.com/100457467524226017517
+
+# Build settings
+markdown: kramdown
+permalink: pretty
