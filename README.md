@@ -1,3 +1,3 @@
 **Personal Website**
 
-[Based on a Jekyll Theme by Rick Kim](https://github.com/y7kim/agency-jekyll-theme">Based on a Jekyll Theme by Rick Kim  )
+[Based on a Jekyll Theme by Rick Kim](https://github.com/y7kim/agency-jekyll-theme)
